@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeuFore&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeuFore&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeuFore&langs_count=8&count_private=true)](https://github.com/JeuFore/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeufore)](https://github.com/JeuFore/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeufore)](https://github.com/JeuFore/github-readme-stats)
