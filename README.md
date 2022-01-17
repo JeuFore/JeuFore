@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeuFore&count_private=true&bg_color=DEG,2B86C5,784BA0,FF3CAC&title_color=FFFFFF&text_color=DCDCDC)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeuFore&show_icons=true&count_private=true&bg_color=DEG,2B86C5,784BA0,FF3CAC&title_color=FFFFFF&text_color=DCDCDC)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeufore)](https://github.com/JeuFore/github-readme-stats)
